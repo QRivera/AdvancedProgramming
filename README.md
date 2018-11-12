@@ -1,2 +1,2 @@
 # AdvancedProgramming
-Project Lecture
+Academic Project for this Lecture
